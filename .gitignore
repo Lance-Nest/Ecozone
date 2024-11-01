@@ -116,3 +116,8 @@ run/
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
+.eclipse/configurations/Client.launch
+.eclipse/configurations/Data.launch
+.eclipse/configurations/GameTestServer.launch
+.eclipse/configurations/Server.launch
+/.settings
