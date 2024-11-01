@@ -1,16 +1,354 @@
 {
   "variants": {
-    "axis=x": {
-      "model": "minecraft:block/oak_log_horizontal",
-      "x": 90,
-      "y": 90
-    },
-    "axis=y": {
-      "model": "minecraft:block/oak_log"
-    },
-    "axis=z": {
-      "model": "minecraft:block/oak_log_horizontal",
-      "x": 90
-    }
+    "axis=x": [
+		{
+		  "model": "minecraft:block/oak_log_basic_1",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_2",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_3",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_hollow",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_knotted",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_moss",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_1",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_2",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_3",
+		  "x": 90,
+		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_villager",
+		  "x": 90,
+		  "y": 90
+		}
+		
+		,{
+		  "model": "minecraft:block/oak_log_basic_1",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_2",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_3",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_hollow",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_knotted",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_moss",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_1",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_2",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_3",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_villager",
+		  "x": 90,
+		  "y": 90,
+		  "z": 90
+		}
+		
+		,{
+		  "model": "minecraft:block/oak_log_basic_1",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_2",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_3",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_hollow",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_knotted",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_moss",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_1",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_2",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_3",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		},
+		{
+		  "model": "minecraft:block/oak_log_villager",
+		  "x": 90,
+		  "y": 90,
+		  "z": 180
+		}
+		
+		,{
+		  "model": "minecraft:block/oak_log_basic_1",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_2",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_3",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_hollow",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_knotted",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_moss",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_1",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_2",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_3",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		},
+		{
+		  "model": "minecraft:block/oak_log_villager",
+		  "x": 270,
+		  "y": 90,
+		  "z": 270
+		}
+    ],
+    "axis=y": [
+		{
+		  "model": "minecraft:block/oak_log_basic_1"
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_2"
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_3"
+		},
+		{
+		  "model": "minecraft:block/oak_log_hollow"
+		},
+		{
+		  "model": "minecraft:block/oak_log_knotted"
+		},
+		{
+		  "model": "minecraft:block/oak_log_moss"
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_1"
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_2"
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_3"
+		},
+		{
+		  "model": "minecraft:block/oak_log_villager"
+		},
+		
+		{
+		  "model": "minecraft:block/oak_log_basic_1", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_2", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_3", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_hollow", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_knotted", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_moss", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_1", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_2", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_3", "y": 90
+		},
+		{
+		  "model": "minecraft:block/oak_log_villager", "y": 90
+		}
+	],
+    "axis=z": [
+		{
+		  "model": "minecraft:block/oak_log_basic_1",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_2",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_basic_3",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_hollow",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_knotted",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_moss",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_1",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_2",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_scratch_3",
+		  "x": 90
+		  
+		},
+		{
+		  "model": "minecraft:block/oak_log_villager",
+		  "x": 90
+		  
+		}
+	]
   }
 }
